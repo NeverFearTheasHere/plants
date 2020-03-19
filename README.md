@@ -1,0 +1,1 @@
+﻿This is a demo project which was used as a way to try out react-native-web
